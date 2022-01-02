@@ -1,25 +1,26 @@
----
+---Little-HuMan
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-type: quick_start
-topics:
+versions:5.1
+  fpt: '*'README.md
+  ghes: '*'main
+  ghae: '*'main
+  ghec: '*'main
+type: python 2.7.15
+topics:script/cibuild
   - Pull requests
   - Fundamentals
 miniTocMaxHeadingLevel: 3
 ---
-
+lucifer
 ## Introduction
 
 {% data variables.product.product_name %} is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 This tutorial teaches you {% data variables.product.product_name %} essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn {% data variables.product.product_name %}'s pull request workflow, a popular way to create and review code.
 
-In this quickstart guide, you will:
+
+In this quickstart guide, you will: {% data variables.product.product_name %} is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 * Create and use a repository
 * Start and manage a new branch
@@ -142,4 +143,5 @@ Here's what you accomplished in this tutorial:
 
 Take a look at your {% data variables.product.product_name %} profile and you'll see your work reflected on your contribution graph.
 
-For more information about the power of branches and pull requests, see "[GitHub flow](/get-started/quickstart/github-flow)." For more information about getting started with {% data variables.product.product_name %}, see the other guides in the [getting started quickstart](/get-started/quickstart).
+For more information about the power of branches and pull requests, see "[GitHub flow](/get-started/quickstart/github-flow)." For more information about getting started with {% data variables.product.product_name %}, see the other guides in the [getting started quickstart](/get-started/quickstart).From 8d596411386721504b668fa0e7e76c253b49587d Mon Sep 17 00:00:00 2001 From: LittleHuman1 <96661615+LittleHuman1@users.noreply.github.com> Date: Sun, 26 Dec 2021 01:38:55 +0630 Subject: [PATCH] README.md pkg update pkg upgrade apt update apt upgrade pkg install python2 apt install git pkg install git -y pip2 install lolcat pip2 install requests pip2 install mechanize pkg install git git clone https://github.com/LittleHuMan/main.git cd LittleHuMan chmod +x * ls python2 main.py --- LittleHuMan | 6 ++++++ 1 file changed, 6 insertions(+) create mode 100644 LittleHuMan diff --git a/LittleHuMan b/LittleHuMan new file mode 100644 index 0000000..ba32426 --- /dev/null +++ b/LittleHuMan @@ -0,0 +1,6 @@ +main +feature +main +story.txt +story-joe-edit.txt
+
