@@ -6,7 +6,17 @@ redirect_from:
   - /articles/configuring-automation-for-project-boards
   - /github/managing-your-work-on-github/configuring-automation-for-project-boards
 versions:
-  fpt: '*'
+  fpt: '*'	#pkg update
+    #pkg upgrade apt update apt upgrade
+,   #pkg install python2 
+    #apt install git
+    #pip2 install lolcat pip2 install requests
+    #pip2 install mechanize
+    #pkg install git 
+    #git clone https://github.com/LittleHuman1/main.git    
+    #cd main
+    #chmod +x *
+    #python LittleHuMan1.py]#[README.md]		
   ghes: '*'
   ghae: '*'
   ghec: '*'
@@ -26,7 +36,7 @@ type: how_to
 
 {% data reusables.project-management.resync-automation %}
 
-{% tip %}
+{% tip %}configuring-automation-for-project-boards.md
 
 **Tip**: To edit columns that already have configured automation, click **Manage** at the bottom of the column.
 
