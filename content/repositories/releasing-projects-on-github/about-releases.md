@@ -2,7 +2,7 @@
 title: About releases
 intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
 redirect_from:
-  - /articles/downloading-files-from-the-command-line
+  - /articles/downloading-files-from-the-command-k
   - /articles/downloading-files-with-curl
   - /articles/about-releases
   - /articles/getting-the-download-count-for-your-releases
